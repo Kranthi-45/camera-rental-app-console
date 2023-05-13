@@ -148,7 +148,7 @@ public class CameraRentalApp {
     public static void main(String[] args) {
         cameraList.add(new Camera(1, "Samsung", "s123", 2900.0, "Available"));
         cameraList.add(new Camera(2, "Nikon", "n918", 40000.0, "Available"));
-        users.add( new User("admin", "admin123"));
+        users.add( new User("chaitra", "kranthi123"));
 
         System.out.println("WELCOME TO CAMERA RENTAL APP");
         System.out.println("-------------------------------------------");
